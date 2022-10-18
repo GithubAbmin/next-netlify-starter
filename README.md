@@ -84,7 +84,7 @@ npm uninstall -D netlify-plugin-cypress
 ```
 
 And lastly if you’d like to remove Cypress entirely, delete the entire `cypress` folder and the `cypress.config.ts` file. Then remove the dependency using:
-
+wjeoweowkowe
 ```bash
 npm uninstall -S cypress
 ```
